@@ -1,1 +1,1 @@
-export const base_url = "https://lapcare-backend.herokuapp.com/admin"
+export const base_url = "https://lapcareserver.herokuapp.com/admin"
